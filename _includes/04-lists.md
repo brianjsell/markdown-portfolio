@@ -1,0 +1,3 @@
+- Life
+- Liberty
+- The pursuit of happiness
